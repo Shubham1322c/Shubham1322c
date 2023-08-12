@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭Just Completed My Diploma in Computer Engg. From Govt. PolyTechnic, Sonipat<br>👯 I’m looking to collaborate on Web Based Projects<br>🤝 I’m looking for help with improving the user experience<br>🌱 I’m currently learning React.js<br>💬 Ask me about My favorite anime<br>⚡ Fun fact "Art Is An Explostion"
+🔭Recently Completed My Diploma in Computer Engg. From Govt. PolyTechnic, Sonipat<br>👯 I’m looking to collaborate on Web Based Projects<br>🤝 I’m looking for help with improving the user experience<br>🌱 I’m currently learning React.js<br>💬 Ask me about My favorite anime<br>⚡ Fun fact "Art Is An Explostion"
 
 
 ## 🌐 Socials:
